@@ -1,0 +1,48 @@
+@charset "UTF-8";
+.tabla{	
+	border-collapse: collapse;	
+}
+caption{
+	border:solid green;
+}
+.celda{
+	border: solid black;
+}
+.gris{
+	color: darkgrey;
+}
+.azul{
+	color: blue;
+}
+.rojo{
+	color: red;
+}
+.verde{
+	color: green;
+}
+.navidad{
+	background: lightcoral;
+}
+.div{
+	height: 200px;
+	overflow: auto;
+}
+.amarillo{
+	color: yellow;
+	font-weight: 100;
+}
+.oscuro{
+	background: darkgrey;
+}
+.morado{
+	color: rebeccapurple;
+}
+.claro{
+	background: brown;
+}
+.corazon{
+	background: royalblue;
+}
+.creeper{
+	background: dimgrey;
+}
